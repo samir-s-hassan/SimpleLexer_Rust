@@ -17,6 +17,7 @@ The following functionality is implemented:
 - [X] Ensures that the lex() function passes all the tests provided in tests/lex.rs, including edge cases and different input scenarios
 
 ## How to run
+
 1. Run "cargo build" to compile the project
 2. Run "cargo test" to check the passing test cases
 3. Since there is no main.rs and this is not an application, running "cargo test" is enough to verify the lexer is working with our test case inputs
